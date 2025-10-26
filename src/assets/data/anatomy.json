@@ -1,0 +1,49 @@
+{
+  "objects": [
+    {
+      "name": "Bed",
+      "description": "A comfortable queen-sized bed with soft pillows and a warm blanket.",
+      "material": "Wood and fabric",
+      "interactions": {
+        "gaze": "Look at the bed to learn about its features.",
+        "click": "Click to hear about the benefits of a good night's sleep."
+      }
+    },
+    {
+      "name": "Lamp",
+      "description": "A stylish lamp providing warm light for reading.",
+      "material": "Metal and glass",
+      "interactions": {
+        "gaze": "Focus on the lamp to discover its design inspiration.",
+        "click": "Click to listen to tips on creating a cozy atmosphere."
+      }
+    },
+    {
+      "name": "Wardrobe",
+      "description": "A spacious wardrobe for storing clothes and accessories.",
+      "material": "Wood",
+      "interactions": {
+        "gaze": "Gaze at the wardrobe to learn about organizing your space.",
+        "click": "Click to hear about the importance of decluttering."
+      }
+    },
+    {
+      "name": "Desk",
+      "description": "A functional desk for studying or working.",
+      "material": "Wood",
+      "interactions": {
+        "gaze": "Look at the desk to find out about effective workspace setups.",
+        "click": "Click to hear productivity tips."
+      }
+    },
+    {
+      "name": "Chair",
+      "description": "An ergonomic chair designed for comfort during long hours.",
+      "material": "Plastic and fabric",
+      "interactions": {
+        "gaze": "Focus on the chair to learn about its ergonomic benefits.",
+        "click": "Click to listen to advice on maintaining good posture."
+      }
+    }
+  ]
+}
